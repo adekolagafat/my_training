@@ -1,0 +1,27 @@
+#firstH1{
+    background-color: red;
+}
+#secondH1{
+    background-color: green;
+}
+.thirdH1 {
+    background-color: white;
+    font-size: 20px;
+}
+.change{
+    text-decoration: none;
+}
+/* #reduce{
+    height: 100px;
+} */
+img{
+    height: 100px;
+}
+p{
+    background-color: blue;
+    color: white;
+}
+.create{
+    background-color: blueviolet;
+    color: aliceblue;
+}
