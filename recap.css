@@ -1,0 +1,41 @@
+*{
+padding: 0;
+margin: 0;
+    }
+
+
+.container{
+    background-color: darkgreen;
+
+    width: 100%;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+   
+}
+
+.box{
+    padding: 10px 0 10px 30px;
+    margin: 0 250px 0 0;
+    color: white;
+}
+
+.box_list{
+
+    display: flex;
+    list-style: none;
+    margin-left: 500px;
+    
+}
+.list{
+    margin: 0 20px 0 0;
+    padding: 10px 0 10px 30px;
+    color: white;
+    
+}
+
+.navbar{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* background-color: brown; */
+
+}
